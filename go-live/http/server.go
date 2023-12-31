@@ -2,7 +2,7 @@ package http
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/rscampos3/GoLang/go-live/model"
+	"github.com/rscampos3/GoLang/tree/main/go-live/model"
 )
 
 type WebServer struct {

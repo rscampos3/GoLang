@@ -1,6 +1,6 @@
 package main
 
-import "github.com/rscampos3/GoLang/go-live/model"
+import "github.com/rscampos3/GoLang/tree/main/go-live/model"
 
 func main() {
 	produto1 := model.NewProduct()
