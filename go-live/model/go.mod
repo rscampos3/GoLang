@@ -1,4 +1,4 @@
-module github.com/rscampos3/esquenta2-golang
+module github.com/rscampos3/GoLang/go-live
 
 go 1.21.5
 
