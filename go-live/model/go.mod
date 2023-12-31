@@ -1,4 +1,4 @@
-module github.com/rscampos3/GoLang/go-live
+module github.com/rscampos3/Golang/go-live/model
 
 go 1.21.5
 
